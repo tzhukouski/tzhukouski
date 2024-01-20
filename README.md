@@ -9,15 +9,11 @@
     Frontend developer from <b>Abyron</b> (Białystok, Poland 🇵🇱)
     <br>
     <br>
+    😌&emsp;Enjoy programming&emsp;&emsp;🫡&emsp;Love learning
+    <br>
   </samp>
-</p>
-
-<img width="50%" src="/assets/image.svg" alt="image">
-
-<p>
- 😌&emsp;Enjoy programming<br/><br/>
- 🫡&emsp;Love learning<br/><br/>
- 🤗&emsp;Reach me anytime: tzhukouski@gmail.com<br/><br/>
+  <br>
+  <img width="50%" src="/assets/image.svg" alt="image">
 </p>
 
 ## I use
