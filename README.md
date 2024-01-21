@@ -43,11 +43,6 @@
 ![GitLab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Links
-<style>
-  a {
-    text-decoration:none;
-  }
-</style>
 <a href="https://lambent-mermaid-9ea91e.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=medium&logoColor=black" alt="website"/>
 </a>
