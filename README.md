@@ -44,7 +44,7 @@
 
 ## Links
 <a href="https://nazywamsietsimafei.site" target="_blank">
-<img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=medium&logoColor=black" alt="website"/>
+<img src="https://img.shields.io/badge/Website-black?style=for-the-badge&logo=medium&logoColor=white" alt="website"/>
 </a>
 <a href="https://www.linkedin.com/in/tsimafei-zhukouski-7212052a6/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
