@@ -18,7 +18,7 @@
 
 ## I use
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&labelColor=4FC08D&logo=vue.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&labelColor=4FC08D&logo=vue.js&logoColor=white)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&labelColor=00DC82&logo=nuxt.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +43,9 @@
 ![GitLab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Links
+<a href="https://lambent-mermaid-9ea91e.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=medium&logoColor=black" alt="linkedin"/>
+</a>
 <a href="https://www.linkedin.com/in/tsimafei-zhukouski-7212052a6/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
 </a>
