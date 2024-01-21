@@ -43,7 +43,7 @@
 ![GitLab](https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## Links
-<a href="https://lambent-mermaid-9ea91e.netlify.app/" target="_blank">
+<a href="https://nazywamsietsimafei.site" target="_blank">
 <img src="https://img.shields.io/badge/Website-white?style=for-the-badge&logo=medium&logoColor=black" alt="website"/>
 </a>
 <a href="https://www.linkedin.com/in/tsimafei-zhukouski-7212052a6/" target="_blank">
